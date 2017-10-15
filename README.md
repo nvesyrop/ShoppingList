@@ -1,5 +1,5 @@
 # ShoppingList
-A java-based application for managing a shopping list
+A java-based application for managing a shopping list, that is based on ArrayLists.
 
 The application prints a main menu and enables the user to:
 
